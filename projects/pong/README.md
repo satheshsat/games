@@ -1,24 +1,20 @@
 # Pong
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+[![NPM](https://img.shields.io/npm/v/@satheshsat/pong.svg)](https://www.npmjs.com/package/@satheshsat/pong) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Code scaffolding
+## Install
 
-Run `ng generate component component-name --project pong` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project pong`.
-> Note: Don't forget to add `--project pong` or else it will be added to the default project in your `angular.json` file. 
+```bash
+npm install --save @satheshsat/pong
+```
 
-## Build
+## Usage
+import PongModule in module.ts
 
-Run `ng build pong` to build the project. The build artifacts will be stored in the `dist/` directory.
+```html
+<satheshsat-pong></satheshsat-pong>
+```
 
-## Publishing
+## License
 
-After building your library with `ng build pong`, go to the dist folder `cd dist/pong` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test pong` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MIT © [satheshsat](https://github.com/satheshsat)

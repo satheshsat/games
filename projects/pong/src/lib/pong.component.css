@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+  }
+  
+  lib-game {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+  }
+  
