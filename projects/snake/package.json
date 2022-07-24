@@ -1,11 +1,12 @@
 {
   "name": "@satheshsat/snake",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Snake game",
   "keywords": [
     "snake",
     "game"
   ],
+  "repository": "satheshsat/games",
   "author": "Sathesh kumar <satheshs.sat@gmail.com>",
   "license": "MIT",
   "private": false,

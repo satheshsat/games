@@ -6,6 +6,7 @@
     "Puzzle",
     "game"
   ],
+  "repository": "satheshsat/games",
   "author": "Sathesh kumar <satheshs.sat@gmail.com>",
   "license": "MIT",
   "private": false,
