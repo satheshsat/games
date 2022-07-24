@@ -1,6 +1,17 @@
 {
-  "name": "puzzle",
+  "name": "@satheshsat/puzzle",
   "version": "0.0.1",
+  "description": "Puzzle game",
+  "keywords": [
+    "Puzzle",
+    "game"
+  ],
+  "author": "Sathesh kumar <satheshs.sat@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+      "access": "public"
+  },
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"

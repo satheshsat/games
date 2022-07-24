@@ -1,6 +1,17 @@
 {
-  "name": "snake",
-  "version": "0.0.1",
+  "name": "@satheshsat/snake",
+  "version": "0.0.5",
+  "description": "Snake game",
+  "keywords": [
+    "snake",
+    "game"
+  ],
+  "author": "Sathesh kumar <satheshs.sat@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+      "access": "public"
+  },
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
