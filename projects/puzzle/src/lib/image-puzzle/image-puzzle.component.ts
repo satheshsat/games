@@ -8,7 +8,7 @@ import { Observable, timer } from 'rxjs';
 })
 export class ImagePuzzleComponent implements OnInit {
 
-  imageUrl: string = './assets/images/taj.jpg';
+  imageUrl: string = 'https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg';
   imageSize: number = 500;
   gridsize: number = 2;
   boxSize: number = 100 / (this.gridsize - 1);
