@@ -1,24 +1,20 @@
 # Puzzle
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+[![NPM](https://img.shields.io/npm/v/@satheshsat/puzzle.svg)](https://www.npmjs.com/package/@satheshsat/puzzle) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Code scaffolding
+## Install
 
-Run `ng generate component component-name --project puzzle` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project puzzle`.
-> Note: Don't forget to add `--project puzzle` or else it will be added to the default project in your `angular.json` file. 
+```bash
+npm install --save @satheshsat/puzzle
+```
 
-## Build
+## Usage
+import PuzzleModule in module.ts
 
-Run `ng build puzzle` to build the project. The build artifacts will be stored in the `dist/` directory.
+```html
+<satheshsat-puzzle></satheshsat-puzzle>
+```
 
-## Publishing
+## License
 
-After building your library with `ng build puzzle`, go to the dist folder `cd dist/puzzle` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test puzzle` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MIT © [satheshsat](https://github.com/satheshsat)
