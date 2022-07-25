@@ -1,24 +1,20 @@
 # Tetris
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+[![NPM](https://img.shields.io/npm/v/@satheshsat/tetris.svg)](https://www.npmjs.com/package/@satheshsat/tetris) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Code scaffolding
+## Install
 
-Run `ng generate component component-name --project tetris` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project tetris`.
-> Note: Don't forget to add `--project tetris` or else it will be added to the default project in your `angular.json` file. 
+```bash
+npm install --save @satheshsat/tetris
+```
 
-## Build
+## Usage
+import TetrisModule in module.ts
 
-Run `ng build tetris` to build the project. The build artifacts will be stored in the `dist/` directory.
+```html
+<satheshsat-tetris></satheshsat-tetris>
+```
 
-## Publishing
+## License
 
-After building your library with `ng build tetris`, go to the dist folder `cd dist/tetris` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test tetris` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MIT © [satheshsat](https://github.com/satheshsat)
